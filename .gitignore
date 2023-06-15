@@ -2,5 +2,5 @@
 ../Lib
 Scripts
 venv
-.env
+api/.env
 pyvenv.cfg
